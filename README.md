@@ -10,5 +10,10 @@ Fixes?:
 
 Future functionality:
    - Integrate latexocr
+
+ update:
+ - scrapped imagegen and pix2txt (ver 0.5) and start using inftyreader to generate tex files
+ - turning the input and the mentioned tex files to text before comparing
+ - way more consistent 
    
    
